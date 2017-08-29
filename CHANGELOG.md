@@ -1,6 +1,6 @@
 # MJML Snippets Changelog
 
-## 0.0.5
+## 0.0.5 (2017-08-29)
 
 * Created CHANGELOG 
 
