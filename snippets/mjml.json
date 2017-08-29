@@ -1,0 +1,22 @@
+{
+  "mjml": {
+    "prefix": "mjml",
+    "body": [
+      "<mjml>",
+      "\t<mj-head>",
+      "\t\t<mj-title>$1</mj-title>",
+      "\t</mj-head>",
+      "\t<mj-body>",
+      "\t\t<mj-container>",
+      "\t\t\t<mj-section>",
+      "\t\t\t\t<mj-column>",
+      "\t\t\t\t\t$2",
+      "\t\t\t\t</mj-column>",
+      "\t\t\t</mj-section>",
+      "\t\t</mj-container>",
+      "\t</mj-body>",
+      "</mjml>"
+    ],
+    "description": "Create MJML boilerlate"
+  }
+}
