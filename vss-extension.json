@@ -1,0 +1,57 @@
+{
+  "manifestVersion": 1,
+  "id": "snippets",
+  "version": "0.0.2",
+  "name": "MJML Snippets",
+  "publisher": "kvnol",
+  "description": "MJML Snippets for Virtual Studio Code.",
+  "targets": [
+    {
+      "id": "Microsoft.VisualStudio.Services"
+    }
+  ],
+  "icons": {
+    "default": "images/mjml-snippets.svg"
+  },
+  "scopes": [
+    "vso.work",
+    "vso.code_write",
+    "vso.build_execute"
+  ],
+  "categories": [
+    "Code"
+  ],
+  "branding": {
+      "color": "rgb(244, 94, 67)",
+      "theme": "dark"
+  },
+  "content": {
+    "details": {
+      "path": "readme.md"
+    },
+    "license": {
+      "path": "LICENSE"
+    }
+  },
+  "links": {
+    "getstarted": {
+      "uri": "https://github.com/kvnol/mjml-snippets#readme"
+    },
+    "support": {
+      "uri": "https://github.com/kvnol/mjml-snippets/issues"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "uri": "https://github.com/kvnol/mjml-snippets/"
+  },
+  "contributions": [
+    {}
+  ],
+  "files": [
+    {
+      "path": "snippets/mjml.json",
+      "addressable": true
+    }
+  ]
+}
