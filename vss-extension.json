@@ -46,7 +46,16 @@
     "uri": "https://github.com/kvnol/mjml-snippets/"
   },
   "contributions": [
-    {}
+    {
+      "id": "launch",
+      "type": "ms.vss-web.action",
+      "targets": [
+        "ms.vss-build-web.completed-build-menu"
+      ],
+      "properties": {
+        "uri": ".vscode/launch.json"
+      }
+    }
   ],
   "files": [
     {
