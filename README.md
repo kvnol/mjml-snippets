@@ -1,2 +1,2 @@
-# mjml-snippets
-MJML Snippets to Virtual Studio Code.
+# MJML Snippets
+MJML Snippets for Virtual Studio Code.
