@@ -11,7 +11,7 @@
     }
   ],
   "icons": {
-    "default": "images/mjml-snippets.svg"
+    "default": "images/mjml-snippets.png"
   },
   "scopes": [
     "vso.work",
