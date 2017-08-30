@@ -2,9 +2,9 @@
   "name": "mjml-snippets",
   "publisher": "kvnol",
   "displayName": "MJML Snippets",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "MJML Snippets for Virtual Studio Code.",
-  "icon": "img/icon.png",
+  "icon": "images/mjml-snippets.png",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "Email"
   ],
   "engines": {
-    "vscode": "^1.10.0"
+    "vscode": "^1.0.0"
   },
   "devDependencies": {
     "vscode": "^1.0.0"
@@ -26,12 +26,6 @@
     "Other"
   ],
   "contributes": {
-    "jsonValidation": [
-      {
-        "fileMatch": "manifest.json",
-        "url": "http://json.schemastore.org/web-manifest"
-      }
-    ],
     "snippets": [
       {
         "language": "mjml",
