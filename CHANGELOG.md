@@ -1,5 +1,10 @@
 # MJML Snippets Changelog
 
+## 0.1.0 (2017-08-30)
+
+* Update structure for Extensions Marketplace
+* Publish extension on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kvnol.mjml-snippets) 
+
 ## 0.0.5 (2017-08-29)
 
 * Created CHANGELOG 
