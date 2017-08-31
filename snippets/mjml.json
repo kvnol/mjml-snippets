@@ -18,5 +18,12 @@
       "</mjml>"
     ],
     "description": "Create MJML boilerlate"
-  }
+  },
+  "mj-image": {
+		"prefix": "mj-image",
+		"body": [
+		  "<mj-image\n\t src=\"$1\"\n\t alt=\"$2\"\n\t width=\"$3\" />"
+    ],
+    "description": "Create mj-image component"
+	}
 }
