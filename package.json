@@ -2,7 +2,7 @@
   "name": "mjml-snippets",
   "publisher": "kvnol",
   "displayName": "MJML Snippets",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "MJML Snippets for Virtual Studio Code.",
   "icon": "images/mjml-snippets.png",
   "license": "MIT",
